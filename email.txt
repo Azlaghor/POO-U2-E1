@@ -1,0 +1,10 @@
+juan.perez,gmail,com,juan123
+maria_gomez,outlook,com,mariaa
+paco,facebook,,paquinho
+juan_garcia,yahoo,com,garcia
+edmun,mcmillen,net, isaac
+carlos.alvarez,taringa,net,goku123
+pepe_diaz,linkedin,com,elpepe
+juanfernandez,yahoo,com,ferni
+juan_pablo,instagram,com,pablito
+erick.barone,stardew,com,abigail
